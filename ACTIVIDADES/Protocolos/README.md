@@ -1,5 +1,5 @@
 ﻿
-![ref1]**Departamento Académico de Ingeniería** 
+![ref1](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/ACTIVIDADES/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.001.png)**Departamento Académico de Ingeniería** 
 
 **C8280 -Comunicación de Datos y Redes** 
 
@@ -30,13 +30,6 @@ Piensa en los estándares de protocolo aceptados comúnmente para el envío de m
 
 
 Comunicación de Datos y Redes 
-
-
-
-![ref1]**Departamento Académico de Ingeniería** 
-
-**C8280 -Comunicación de Datos y Redes** 
-
 
 
 **Tu protocolo de mensajería de texto** 
