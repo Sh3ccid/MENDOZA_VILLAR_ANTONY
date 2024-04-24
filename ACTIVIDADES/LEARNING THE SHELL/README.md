@@ -2,8 +2,18 @@
  <p align="center"> Departamento Académico de Ingeniería </p>
 
 **C8280 -Comunicación de Datos y Redes**
- 
- Contents
+
+ # Trabajo Práctico: Introducción al Uso de la Terminal en Linux
+
+En este trabajo práctico, he realizado una serie de ejercicios de aprendizaje utilizando los comandos de Linux. Con el único objetivo de adquirir un conocimiento básico y práctico sobre el uso de la terminal en sistemas operativos Linux, así como familiarizarse con la sintaxis y funcionalidades de los comandos más comunes.
+
+Los ejercicios fueron realizados siguiendo el tutorial de LinuxCommand, disponible en el siguiente enlace: [LinuxCommand Tutorial](https://linuxcommand.org/lc3_learning_the_shell.php). 
+
+A lo largo de este trabajo, he explorado y practicado con comandos esenciales como `ls`, `cd`, `mkdir`, `rm`, entre otros. Además, he aprendido sobre la gestión de archivos y directorios, navegación en el sistema de archivos, manipulación de texto y procesos, lo cual es fundamental para cualquier usuario que desee trabajar eficientemente en un entorno Linux.
+
+Espero que este trabajo sirva como una guía útil para aquellos que están comenzando a familiarizarse con la terminal de Linux y deseen adentrarse en el mundo de la línea de comandos. ¡Disfruten del aprendizaje!
+
+Contents
 
 [What is "the Shell"?](https://linuxcommand.org/lc3_lts0010.php)
 
