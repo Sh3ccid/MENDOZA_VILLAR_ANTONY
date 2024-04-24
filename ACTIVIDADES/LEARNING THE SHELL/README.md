@@ -1,4 +1,11 @@
-﻿Contents
+﻿![ref1](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.001.png)
+ <p align="center">
+ **Departamento Académico de Ingeniería**
+ </p>
+
+**C8280 -Comunicación de Datos y Redes**
+ 
+ Contents
 
 [What is "the Shell"?](https://linuxcommand.org/lc3_lts0010.php)
 
