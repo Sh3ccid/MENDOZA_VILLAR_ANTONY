@@ -22,9 +22,9 @@ En este repositorio encontrarás ejercicios, configuraciones y proyectos relacio
 ### Actividades
 
 1. [Actividad 6: Crear una red con un switch y un router - Modo](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/ACTIVIDADES/Actividad_6)
-2. [Actividad : ]()
-3. [Actividad : ]()
-4. [Actividad : ]()
+2. [Actividad 11: ]()
+3. [Actividad 12: Construyendo una área de red local](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/ACTIVIDADES/Actividad_12)
+4. [Actividad 13: TCP/IP](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/ACTIVIDADES/Actividad_13)
 5. [Actividad : ]()
 6. [Actividad : ]()
 7. [Actividad : ]()
