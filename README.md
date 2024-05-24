@@ -22,16 +22,20 @@ En este repositorio encontrarás ejercicios, configuraciones y proyectos relacio
 ### Actividades
 
 1. [Actividad 6: Crear una red con un switch y un router - Modo](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/ACTIVIDADES/Actividad_6)
-2. [Actividad 11: ]()
+2. [Actividad 11: Conceptos de introducción a las redes](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/ACTIVIDADES/Actividad_11)
 3. [Actividad 12: Construyendo una área de red local](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/ACTIVIDADES/Actividad_12)
 4. [Actividad 13: TCP/IP](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/ACTIVIDADES/Actividad_13)
-5. [Actividad : ]()
-6. [Actividad : ]()
-7. [Actividad : ]()
-8. [Actividad : ]()
-9. [Actividad : ]()
-10. [Actividad : ]()
+5. [Actividad 14: ](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/ACTIVIDADES/Actividad_14)
+6. [Actividad 15: ](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/ACTIVIDADES/Actividad_15)
+7. [Actividad 16: ](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/ACTIVIDADES/Actividad_16)
+8. [Introducción al Uso de la Terminal en Linux ](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/ACTIVIDADES/LEARNING%20THE%20SHELL)
 
+### AWS 1
+[Lab 1 modulo 4](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/AWS_1/Laboratorio_1_modulo_4)
+
+[Lab 2 modulo 4](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/AWS_1/Laboratorio_2_modulo_4)
+
+[Lab modulo 5](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/AWS_1/Laboratorio_m%C3%B3dulo_5)
 ## Contacto
 
 Para cualquier consulta o sugerencia, puedes contactarme a través de:
