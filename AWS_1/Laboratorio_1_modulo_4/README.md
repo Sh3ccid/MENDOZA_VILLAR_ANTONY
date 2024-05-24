@@ -139,4 +139,5 @@ Descripción generada automáticamente](https://github.com/Sh3ccid/MENDOZA_VILLA
 
    ![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico
 Descripción generada automáticamente](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_1_modulo_4/IMAGENES/Aspose.Words.408e875d-db55-496b-a0de-0cd412e6d6a1.019.png)
+
    **¡Felicitaciones! Ha completado el laboratorio.**
