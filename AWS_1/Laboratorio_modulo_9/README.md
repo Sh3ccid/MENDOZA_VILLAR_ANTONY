@@ -3,42 +3,44 @@
 ## **Tarea 1. Crear y suscribirse a un tema de SNS**
 1. Ingrese al servicio **Simple Notification Service. Luego, e**n el panel de navegación, seleccione **Temas**. Seleccione **Crear un tema**.
 
-   Img 1
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_9/IMAGENES/Screenshot_1.png)
 
 1. Luego realizar la siguiente configuración y al final elija **Crear un tema.**
 
-   **img2**
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_9/IMAGENES/Screenshot_2.png)
 
 1. Ahora, se suscribirá al tema creado para que, cuando se publique un mensaje en él, este llegue al teléfono o correo electrónico.  En la sección **Suscripciones**, elija **Crear una suscripción**.
 
-   Img 3
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_9/IMAGENES/Screenshot_3.png)
 
 1. Realizar la siguiente configuración y luego elija **Crear una suscripción.**
 
-   **Img 4**
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_9/IMAGENES/Screenshot_4.png)
 ## **Tarea 2. Crear una alarma de CloudWatch**
 1. Ingrese al servicio **CloudWatch**. Luego, en el panel de navegación izquierdo, seleccione **Alarmas**. Elija **Crear alarmas** y seleccione **Crear alarma**.
 
-   Img 5
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_9/IMAGENES/Screenshot_5.png)
 
 1. Elija **Seleccione una métrica**. Seleccione **Facturación,** luego Cargo total estimado y al final marque la casilla **EstimatedCharges.** Ahora elija **Seleccionar una métrica.**
 
-   **img6**
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_9/IMAGENES/Screenshot_6.png)
 
 1. En la sección **Condiciones**, configure la siguiente información y al finalizar elija **siguiente**.
 
-   img7
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_9/IMAGENES/Screenshot_7.png)
 
 1. En la sección **Notificación**, configure la siguiente información y al finalizar elija **siguiente**.
 
-   Img 8
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_9/IMAGENES/Screenshot_8.png)
 
 1. Ingrese el nombre de la alarma y luego elija **siguiente**.
 
-   Img 9
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_9/IMAGENES/Screenshot_9.png)
 
 1. ` `Revise todos los ajustes que se han realizado anteriormente y elija **Crear alarma.**
 
-   **Img 10 y 11 y 12**
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_9/IMAGENES/Screenshot_10.png)
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_9/IMAGENES/Screenshot_11.png)
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_9/IMAGENES/Screenshot_12.png)
 
 **¡Felicitaciones! Ha configurado una alarma de CloudWatch que utiliza Amazon SNS para enviar una alerta cuando el costo de los servicios alcance los 100 USD.**
