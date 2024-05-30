@@ -72,6 +72,6 @@ OBJETIVO: Utilizar la Calculadora de precios para elegir un servicio y, posterio
 
    ![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_14/IMAGENES/Screenshot_13.png)
 
-La **Calculadora** de precios ofrece un conjunto de funciones que se pueden usar para crear una estimación del costo de los servicios de AWS cuando sabe qué servicios usará y cómo piensa usarlos. Se adjunta el reporte anterior.
+La **Calculadora** de precios ofrece un conjunto de funciones que se pueden usar para crear una estimación del costo de los servicios de AWS cuando sabe qué servicios usará y cómo piensa usarlos. [Se adjunta el reporte anterior](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_14/Estimaci%C3%B3n%20de%20gastos.pdf)
 
 ![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_14/IMAGENES/Screenshot_14.png)
