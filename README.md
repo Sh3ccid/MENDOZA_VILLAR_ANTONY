@@ -36,12 +36,19 @@ En este repositorio encontrarás ejercicios, configuraciones y proyectos relacio
 [Lab 2 modulo 4](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/AWS_1/Laboratorio_2_modulo_4)
 
 [Lab modulo 5](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/AWS_1/Laboratorio_m%C3%B3dulo_5)
+
 [Lab modulo 6](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/AWS_1/Laboratorio_modulo_6)
+
 [Lab modulo 7](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/AWS_1/Laboratorio_modulo_7)
+
 [Lab modulo 9](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/AWS_1/Laboratorio_modulo_9)
+
 [Lab modulo 10](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/AWS_1/Laboratorio_modulo_10)
+
 [Lab modulo 11](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/AWS_1/Laboratorio_modulo_11)
+
 [Lab modulo 12](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/AWS_1/Laboratorio_modulo_12)
+
 [Lab modulo 14](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/tree/main/AWS_1/Laboratorio_modulo_14)
 ## Contacto
 
