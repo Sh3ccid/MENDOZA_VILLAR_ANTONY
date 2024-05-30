@@ -3,15 +3,17 @@
 ## **Tarea 1. Configurar una instancia de base de datos RDS**
 1. Ingrese al servicio **RDS** en el panel **Base de datos.** Luego elija **Crear base de datos,** en la sección elija **un método de creación de base de datos,** finalmente **creación fácil.**
 
-   Img1
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_10/IMAGENES/Screenshot_1.png)
 
 1. En la sección **Configuración**, configure lo siguiente y al final elija **Crear base de datos**.
 
-   Img 2 y 3
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_10/IMAGENES/Screenshot_2.png)
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_10/IMAGENES/Screenshot_3.png)
 
 1. En el panel de la parte superior de la página, seleccione **Ver detalles de credenciales**. Guarde está información en un block de notas.
 
-   Img 4 y 5
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_10/IMAGENES/Screenshot_4.png)
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_10/IMAGENES/Screenshot_5.png)
 ## **Tarea 2. Descargue e instale SQL Server Management Studio**
 1. Para conectarse a la instancia de la base de datos RDS, deberá descargar e instalar SQL Server Management Studio. <https://aka.ms/ssmsfullsetup>
 
@@ -19,18 +21,18 @@
 ## **Tarea 3. Haga que la base de datos sea de acceso público**
 1. Seleccione el nombre de la base de datos **SQL Server** que creó. Luego, elija en la sección **Conectividad y seguridad**, en **Seguridad**, observe que **Acceso público** se encuentra actualmente establecido en **No**.
 
-   Img 6
+   ![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_10/IMAGENES/Screenshot_6.png)
 
    - Seleccione **Modificar** en la parte superior de la página. 
    - Baje hasta la sección **Conectividad** y expanda **Configuración adicional**.
    - En **Acceso público**, seleccione **Acceso público**.
 
-Img 7
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_10/IMAGENES/Screenshot_7.png)
 
 - Desplácese hasta el final de la página y elija **Continuar**.
 - En la sección **Programación de las modificaciones**, en **Cuándo aplicar las modificaciones**, seleccione **Aplicar inmediatamente**. Al final seleccione **Modificar instancia de base de datos.**
 
-Img 8
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_10/IMAGENES/Screenshot_8.png)
 
 Después de unos 30 segundos, el **Estado** de la base de datos 		cambia a *En modificación*. Antes de continuar, espere hasta que el 	estado cambie a *Available* (Disponible).
 ## **Tarea 4. Actualizar el grupo de seguridad de la VPC**
@@ -48,16 +50,16 @@ Primero obtenga su dirección IP.
    - En **Origen**, elija **Personalizado** e ingrese la dirección IP o la dirección IP de la instancia de en el cuadro de texto. 
    - Agregue /32 al final de la dirección IP y seleccione **Guardar reglas**.
 
-**Img 9**
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_10/IMAGENES/Screenshot_9.png)
 ## **Tarea 5. Conectarse a la instancia de la base de datos**
 1. Regrese a la página **RDS>Base de dados**, elija el nombre que creó. En la sección **Conectividad y seguridad.** Luego, copie el valor del **Punto de enlace** en un editor de texto.
 
-   Img 10
+   ![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_10/IMAGENES/Screenshot_10.png)
 
 1. Observe el puerto, para SQL Server es 1433. Si el número de su puerto es diferente, copie ese valor en su editor de texto.
 1. ` `Abra la aplicación Microsoft SQL Server Management Studio. Luego, Aparece el cuadro de diálogo **Conectar con el servidor**.
 
-   Img 11
+   ![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_10/IMAGENES/Screenshot_11.png)
 
 1. ` `Ahora configuraremos el login para conectar la base de datos con el servidor.
 - Para el **Server type** (Tipo de servidor), seleccione **Database Engine** (Motor de base de datos).
@@ -71,10 +73,10 @@ Primero obtenga su dirección IP.
 - También se conoce como la contraseña del usuario administrador.
 - Haga clic en **Connect** (Conectar).
 
-Img 12
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_10/IMAGENES/Screenshot_12.png)
 ## **Tarea 6. Explorar la estructura de la base de datos relacional**
 1. ¡Bien hecho! Puede explorar la estructura de la base de datos relacional mediante la expansión de las áreas en el panel del **Explorador de Objetos**.
 
-Img 13
+![](https://github.com/Sh3ccid/MENDOZA_VILLAR_ANTONY/blob/main/AWS_1/Laboratorio_modulo_10/IMAGENES/Screenshot_13.png)
 
 **¡Felicitaciones! Ha completado el laboratorio.**
